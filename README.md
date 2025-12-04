@@ -96,8 +96,7 @@ Ideal para treinamentos, simulações de armazém, onboarding de operadores e va
 
 ## 🎥 Demonstração
 
-
-
+[▶️ Vídeo de demonstração](./video.mp4)
 
 ## 🧪 Resultados e Comportamento
 
